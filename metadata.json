@@ -1,0 +1,6 @@
+{
+  "name": "AGNIVA MED AI",
+  "description": "Every Prescription, Made Easy. Ultra-premium AI healthcare app that deciphers doctor handwritten prescriptions, highlights uncertain text for verification, and explains medicines in Kannada, Hindi, and English.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
